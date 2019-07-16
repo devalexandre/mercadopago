@@ -2,7 +2,7 @@
 	"autoload" : {
 		"psr-4" : {
 			"Indev\\Mercado\\" : "src/",
-			"Indev\\Test\\": "test/"
+			"Indev\\Test\\" : "test/"
 		}
 	},
 	"require" : {
@@ -10,5 +10,7 @@
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : "^7"
-	}
+	},
+	"name" : "Mercado Pago",
+	"description" : "SDK INdev Mercado Pago"
 }
