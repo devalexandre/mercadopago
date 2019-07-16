@@ -11,6 +11,7 @@
 	"require-dev" : {
 		"phpunit/phpunit" : "^7"
 	},
-	"name" : "Indev Mercado Pago",
-	"description" : "SDK INdev Mercado Pago"
+	"name" : "indev/mercadopago",
+	"description" : "SDK INdev Mercado Pago",
+	"minimum-stability" : "stable"
 }
